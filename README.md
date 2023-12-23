@@ -12,9 +12,6 @@ Hi, I am a  passionate front-end developer with a love for coding 👨🏾‍�
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GANESH-990&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GANESH-990&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GANESH-990&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=GANESH-990&icon=1&color=1)](https://visitcount.itsvg.in)
 
