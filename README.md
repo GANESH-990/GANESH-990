@@ -28,10 +28,6 @@ where I code and build fascinating robots 🤖
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GANESH-990&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=GANESH-990&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GANESH-990&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GANESH-990&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
